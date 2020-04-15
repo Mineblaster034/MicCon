@@ -1,3 +1,5 @@
+Hey there, you found my fork of the MicconOS! Maybe i will work on it in the future... Its a really complicated project so yeah it's gonn take me some time ;D
+
 # MicCon
 ![TravisCI](https://travis-ci.org/evost/MicCon.svg?branch=master "TravisCI")
 
