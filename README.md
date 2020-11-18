@@ -2,17 +2,18 @@ Hey there, you found my fork of the MicconOS! Maybe i will work on it in the fut
 
 
 Idea list:
-Usb support
-Maybe a GUI
-Teensy support
-Touch support
-RA8875/RA8876 support so i can use some bigger displays
+<br>
+Usb support<br>
+Maybe a GUI<br>
+Teensy support<br>
+Touch support<br>
+RA8875/RA8876 support so i can use some bigger displays<br>
 
-Ideas, but i have no idea to work them out:
-Loading drivers from sd card?
-Custom C compiler/GCC fork?
-Proprietary hardware? (phones and laptops of some sort)
-Update over WiFi
+Ideas, but i have no idea to work them out:<br>
+Loading drivers from sd card?<br>
+Custom C compiler/GCC fork?<br>
+Proprietary hardware? (phones and laptops of some sort)<br>
+Update over WiFi<br>
 
 
 # MicCon
